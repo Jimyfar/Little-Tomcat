@@ -1,5 +1,5 @@
 POST / HTTP/1.1
-Host: localhost:8080  :怎么处理多个  :  比较好?
+Host: localhost:8080  
 Connection: keep-alive
 Content-Length: 15
 Origin: chrome-extension://eejfoncpjfgmeleakejdcanedmefagga
